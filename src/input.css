@@ -20,3 +20,9 @@
 .linerblack {
     border: 1px solid black;
 }
+
+#api {
+    -webkit-text-fill-color: transparent;
+    -webkit-text-stroke-width: 2px;
+    color: #3A82EE;
+}
